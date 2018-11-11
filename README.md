@@ -1,0 +1,2 @@
+# Google_Landmark_Recognition_Challenge
+Transfer learning
